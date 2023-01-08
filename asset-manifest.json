@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ApiTask/static/css/main.635451a2.css",
+    "main.js": "/ApiTask/static/js/main.7a204978.js",
+    "static/js/787.fbd91d6b.chunk.js": "/ApiTask/static/js/787.fbd91d6b.chunk.js",
+    "index.html": "/ApiTask/index.html",
+    "main.635451a2.css.map": "/ApiTask/static/css/main.635451a2.css.map",
+    "main.7a204978.js.map": "/ApiTask/static/js/main.7a204978.js.map",
+    "787.fbd91d6b.chunk.js.map": "/ApiTask/static/js/787.fbd91d6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.635451a2.css",
+    "static/js/main.7a204978.js"
+  ]
+}
